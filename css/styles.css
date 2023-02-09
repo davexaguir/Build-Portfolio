@@ -1,0 +1,54 @@
+body {
+    background-image: url(images/background.jpg); 
+    background-color: #cccccc;
+    background-color: bisque;
+}
+
+h1 {
+color: rgba(5, 85, 5, 0.873);
+font: 1800;
+text-align: center;
+border-color: black;
+border-style: dashed;
+}
+
+h2 {
+ color: black ;
+text-align: center;
+
+}
+
+.recent-picture { 
+   
+    text-align: center;
+    -webkit-filter: blur(8px);
+    filter: blur(8px);
+
+}
+
+.recent-picture:hover {
+
+    -webkit-filter: none;
+    filter: none;
+    
+    
+
+}
+p {
+    text-align: center;
+
+}
+
+h3{
+    text-align: center;
+}
+
+li {
+text-align: center;
+display: inline;
+display: inline-block;
+list-style-type: lower-greek; 
+margin: 170px;
+}
+
+
